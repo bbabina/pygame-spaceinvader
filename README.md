@@ -1,7 +1,7 @@
 pygame-spaceinvader
 
 This is a simple game space invader made with python and one of its modules called pygame.
-It is a game where you kill enemies with the help of bullet from the spaceship and get scores. 
+You kill enemies with the bullet from the spaceship and get scores. 
 
 Before getting this work, make sure you have pygame installed in the python environment.
 
